@@ -20,10 +20,10 @@ class Person {
 
 }
 
-let p = new Person("Pramod", "Vrad", "Jenny");
+let p = new Person("Kireet", "Hanu", "Ram");
 
 console.log(p.name);
 // console.log(p.#child1);
 console.log(p.getChild1());
-p.setChild1("VIRAD");
+p.setChild1("Venkat");
 console.log(p.getChild1());
